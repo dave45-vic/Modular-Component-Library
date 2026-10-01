@@ -1,0 +1,13 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #f8fafc;
+}
+
+/* Subtle custom utility shadow or transition helper */
+.transition-all-custom {
+    transition: all 0.2s ease-in-out;
+}

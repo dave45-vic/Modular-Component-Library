@@ -19,3 +19,6 @@ it provides plug-and-play UI building blocks designed around an **"Executive Lig
 
 ## 📦 Getting Started
 Clone the repository and open `index.html` in any modern web browser or live server environment to explore the live component dashboard.
+
+## Live Demo
+https://dave45-vic.github.io/Modular-Component-Library/
